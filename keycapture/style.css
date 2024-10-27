@@ -1,0 +1,22 @@
+/* Styling the body */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: #333;
+}
+
+#output {
+  margin-top: 20px;
+  font-size: 24px;
+  border: 1px solid #333;
+  padding: 20px;
+  width: 300px;
+  margin: 0 auto;
+  min-height: 50px;
+  background-color: #f0f0f0;
+  color: #333;
+}
